@@ -1,4 +1,4 @@
-![logo](https://github.com/Shiakh0112/Shiakh0112/blob/main/Screenshot%202024-08-03%20235529.png)
+![logo](https://github.com/Shiakh0112/Shiakh0112/blob/main/Screenshot%202024-08-04%20001536.png)
 <h1 align="center">Hi 👋, I'm Shaikh Ashfaq</h1>
 <h3 align="center">I am Full Stack developer from India</h3>
 <img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
