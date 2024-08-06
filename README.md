@@ -1,7 +1,7 @@
 ![logo](https://github.com/Shiakh0112/Shiakh0112/blob/main/Screenshot%202024-08-04%20001536.png)
 <h1 align="center">Hi 👋, I'm Shaikh Ashfaq</h1>
 <h3 align="center">I am Full Stack developer from India</h3>
-<img align="right" alt="coding" width="500px" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
+<img align="right" alt="coding" width="400px" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiakh0112&label=Profile%20views&color=0e75b6&style=flat" alt="shiakh0112" /> </p>
 
 - 🌱 I’m currently learning **MERN stack in masai school**
